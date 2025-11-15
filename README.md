@@ -3,7 +3,7 @@
 A modern and responsive **Team Members Showcase** built using **HTML, CSS, and Font Awesome**.  
 Displays team profiles with images, roles, bios, and social links, perfect for company websites.
 
-🌐 **Live Demo:** [View here](https://yoyoooz.github.io/News-homepage/)  
+🌐 **Live Demo:** [View here](https://yoyoooz.github.io/Team-Members-Showcase/)  
 
 ---
 
